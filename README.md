@@ -1,1 +1,1 @@
-# naldiokt
+# Tugas Latihan System Embedded
